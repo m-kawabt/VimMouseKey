@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "60c24d53856fef90b0b0490153083c6dd8fdc207c681741097ad3ab784b13df7"
+    }
+  ],
+  "containerPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/VimMouseKey.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application",
+      "indexDataStoreFolderPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Products",
+      "pchPath" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

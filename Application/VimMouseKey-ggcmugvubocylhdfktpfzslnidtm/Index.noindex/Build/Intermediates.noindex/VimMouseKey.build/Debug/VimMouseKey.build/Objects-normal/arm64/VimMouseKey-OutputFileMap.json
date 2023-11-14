@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master.d",
+    "diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master.dia",
+    "emit-module-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master-emit-module.dia",
+    "swift-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master.swiftdeps"
+  },
+  "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Index.noindex/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/VimMouseKey/VimMouseKeyApp.swift" : {
+
+  }
+}

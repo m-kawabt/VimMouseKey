@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master.dia",
+    "emit-module-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master-emit-module.dia",
+    "swift-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKey-master.swiftdeps"
+  },
+  "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/VimMouseKey/VimMouseKeyApp.swift" : {
+    "const-values" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.swiftconstvalues",
+    "dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.d",
+    "diagnostics" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.dia",
+    "index-unit-output-path" : "/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.o",
+    "llvm-bc" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.bc",
+    "object" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.o",
+    "swift-dependencies" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp.swiftdeps",
+    "swiftmodule" : "/Users/masaya/Desktop/wordspace_xcode/VimMouseKey/Application/VimMouseKey-ggcmugvubocylhdfktpfzslnidtm/Build/Intermediates.noindex/VimMouseKey.build/Debug/VimMouseKey.build/Objects-normal/arm64/VimMouseKeyApp~partial.swiftmodule"
+  }
+}

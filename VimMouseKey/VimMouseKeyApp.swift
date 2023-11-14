@@ -70,7 +70,7 @@ class EnableApp {
                     return Unmanaged.passRetained(newEvent)
                 } else if event.getIntegerValueField(.keyboardEventKeycode) == 36 { // 左クリック
                     clickLeftBottun()
-                } else if isARepeat == 0 && (keycode ==  4 || keycode == 38 || keycode == 37 || keycode == 40) {
+                } else if isARepeat == 0 && (keycode ==  4 || keycode == 38 || keycode == 37 || keycode == 40) { // 各移動キー
                     PUSHED_KEY_LIST.append(keycodeToAlphabet(keycode: keycode, flags: flags))
                     print(PUSHED_KEY_LIST)
                 }
@@ -111,6 +111,7 @@ class EnableApp {
         PUSHED_KEY_LIST.removeAll()
     }
     
+    // 移動キーの入力キューを無限ループで参照
     func run() {
         let queue = DispatchQueue.global(qos: .background)
         queue.async{
